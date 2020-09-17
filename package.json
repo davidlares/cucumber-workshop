@@ -1,0 +1,16 @@
+{
+  "name": "jest-tdd",
+  "version": "1.0.0",
+  "description": "Jest Example for TDD cases",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cucumber-js -r steps"
+  },
+  "author": "David E Lares S <david.e.lares@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "cucumber": "^6.0.5",
+    "jest": "^26.4.2"
+  }
+}
